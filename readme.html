@@ -1,0 +1,57 @@
+<!-- Fichier d'aide à l'utilisation du jeu numérique de style Timeline,
+utilisé par le fichier script.js pour l'affichage en jeu. -->
+
+
+<h1>Aide et informations sur ce jeu numérique de style Timeline </h1>
+<h2> Règles de ce jeu </h2>
+<p>
+    Le but est de réussir à placer les événements tirés aléatoirement au bon endroit dans la frise en cours de construction. Pour cela il faudra estimer au plus près possible la date de l'événement. Les événements affichés dans la frise forment des intervalles de dates. Si la date donnée par le joueur est située dans le même intervalle que la date réelle de l'événement, alors le point est accordé. Un point bonus est accordé si la date exacte est trouvée.
+</p>
+
+<h2>Concept et utilisation</h2>
+<p>
+    Le concept du jeu est bien évidemment inspiré (repris) du jeu de société Timeline, adapté ici pour un <b>usage pédagogique et non commercial</b> pour l'enseignement ou la découverte ludique d'événements historiques d'une thématique particulière. </p>
+<p>
+    Ce jeu se présente sous la forme d'une <b>page Web en accès hors ligne</b> : un fichier HTML principal (<i>index.html</i>) accompagné d'un dossier d'images et de fichiers de style (<i>styles.css</i>), de gestion du jeu (<i>script.js</i>, <i>PapaParse.js</i>) ou de données (<i>readme.html</i>, <i>events.csv</i>). Il est <b>fourni</b> avec une base de données sur les <b>événements de l'histoire de l'informatique</b> rassemblés par la conceptrice de ce jeu numérique, mais chacun est libre d'utiliser ce jeu avec sa propre base de données pourvu qu'elle respecte le format adapté. Consulter la section <a href="#sec:adaptation">Adaptation du jeu à ses besoins</a>.
+</p>
+<p>
+    <b>Étapes à suivre pour pouvoir jouer :</b>
+    <ol>
+        <li>D'ouvrir le fichier <i>index.html</i> avec un navigateur Web ;</li>
+        <li>De sélectionner le thème (si vous souhaitez ne jouer qu'avec une partie restreinte des données du fichier <i>.csv</i>) et le nombre de joueurs ;</li>
+        <li>De sélectionner le fichier <i>event.csv</i> contenant les données des événements à utiliser (c'est ici que vous pouvez sélectionner le fichier de votre conception du moment qu'il respecte le même format) ; </li>
+        <li> Le 1er événement est placé sur la frise. Vous pouvez consulter sa description en appuyant sur la touche <code>Entrée</code> de votre clavier. Un nouvel appui sur cette touche affiche le nouvel événement à placer pour le joueur dont les scores sont encadrés ;</li>
+        <li>Le joueur en cours entre alors une date qu'il estime la plus proche de la date de l'événement affiché et appui sur <code>Entrée</code>. Les points sont automatiquement mis à jour et l'événement placé sur la frise tandis que la description est affichée. Le joueur suivant peut jouer après avoir appuyé sur la touche <code>Entrée</code> ou le bouton <code>Nouvel Événement</code>.</li>
+        <li>Le jeu s'arrête à votre convenance ou à l'épuisement des événements de la base de données. Pour effectuer une nouvelle partie, actualisez la page.</li>
+    </ol>
+    <b>Pour fermer cette fenêtre d'aide, appuyer sur la touche <code>Échap</code> ou faite sortir la souris de l'encadré.</b>
+</p>
+
+
+<h2 id="sec:adaptation">Adaptation du jeu à ses besoins</h2>
+<p>
+    Vous pouvez utiliser cette interface pour jouer à partir de votre propre base de données d'événements. Il vous suffit de fournir un fichier de type <i>CSV</i> contenant les 7 colonnes suivantes séparées par un <code>;</code> (la 1ère ligne de votre fichier <b>doit</b> contenir le titre de la colonne) :
+    <dl>
+        <dt><b>Date</b></dt>
+        <dd>Nombre entier positif ou négatif, ne pas mettre de lettres ou de symboles autres.</dd>
+        <dt><b>Titre</b></dt>
+        <dd>Très courte description de l'événement (recto de la carte)</dd>
+        <dt><b>Description</b></dt>
+        <dd>(optionnelle) Description plus longue de l'événement à titre informatif (recto de la carte), permettant de préciser l'approximation éventuelle de la date, le contexte ou l'origine de l'illustration. Peut inclure des balises html pour le formatage comme <code>&lt;i&gt;&lt;/i&gt;</code> (italique) <code>&lt;b&gt;&lt;/b&gt;</code> (gras) ou <code>&lt;br/&gt;</code> (nouvelle ligne).</dd>
+        <dt><b>Catégorie_principale</b></dt>
+        <dd>(optionnelle mais recommandée) Un seul mot. Permet de faire une sélection d'une partie seulement des événements (utile pour les grosses bases de données).</dd>
+        <dt><b>Catégorie_secondaire</b></dt>
+        <dd>Idem, permet à un événement de rentrer dans 2 catégories.</dd>
+        <dt><b>Sélection</b></dt>
+        <dd>(optionnel) Colonne non encore exploitée dans le fichier JavaScript mais utilisée dans le logiciel de tableur pour la création du csv avec une partie seulement de sa base de données. Consulter le fichier <i>Timeline_numérique.xlsx</i> pour exemple.</dd>
+        <dt><b>Fichier_img</b></dt>
+        <dd>(optionnel) Nom et extension du fichier image contenu dans le dossier img.</dd>
+    </dl> 						
+</p>
+
+
+<h2>Auteur et informations sur la conception</h2>
+<p>
+La conception de la version numérique de ce jeu ainsi que de la base de données contenant les événements ont été réalisées par <b>Anaïs Kobsch</b>, professeure d'informatique au lycée puis en classe préparatoire. Certains extraits de description des événements ont été directement repris de Wikipédia.  <br/>
+La plus grande partie de l'implémentation en Javascript a été réalisée par <b>GPT-3.5</b> via l'interface Chat-GPT : le modèle de language a été dirigé précisément pas à pas pour réaliser les fonctions ou écouteurs d'événements Javascript à partir de la spécification ou de l'algorithme écrit en pseudo-code ou en python. Consulter le fichier <i>script.js</i> ou la <a href="https://chat.openai.com/share/09aa040b-6ddb-4009-92be-9c2939541ffd" target="_blank">discussion avec Chat-GPT</a> pour en savoir plus. Cette discussion montre en particulier l'impasse dans laquelle on peut se trouver si on utilise Chat-GPT de façon trop vague, rechercher "Let's start over." dans la conversation (seconde occurrence) pour identifier le changement de stratégie dans l'utilisation de l'IA.
+</p>

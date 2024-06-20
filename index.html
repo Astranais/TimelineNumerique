@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frise de l'informatique</title>
+    <link rel="stylesheet" href="styles.css"> 
+    <script src="PapaParse.js"></script> <!-- script downloaded from the address below-->
+    <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>-->
+    <script language="JavaScript" src="script.js" defer></script> 
+</head>
+<body>
+
+    <object id="helpPopup" data="readme.html"></object>
+
+    <!-- Sidebar on the left -->
+    <div class="sidebar-left">
+        <button id="help">Aide, informations et règles du jeu</button> 
+
+        <button id="next-event-btn">Nouvel Événement</button> Date réponse : <input type="text" autocomplete="off" id="answer">
+        <br/><br/>
+        <div id="current-event">
+            <!-- Titre et photo de l'événement à placer -->
+        </div>
+
+        <input type="file" id="csv-file-input">
+        <button id="start">(re)Démarrer le jeu</button>
+    </div>
+
+
+    <!-- Main content area -->
+    <div id="main-content">
+        <div class="timeline-container">
+        </div>
+    </div>
+
+    <!-- Sidebar on the right -->
+    <div class="sidebar-right">
+        <h2 style="margin-top: 2px;">Paquet de cartes</h2>
+        <h4>Sélection du thème</h4>
+        <select name="selection" id="select" style="margin-top: 5px;">
+            <option value="Toutes" selected>Toutes</option>
+            <option value="Algorithmes">Algorithmes</option>
+            <option value="Données">Données</option>
+            <option value="Langages">Langages</option>
+            <option value="Machines">Machines</option>
+            <option value="Personne">Personnes</option>
+            <option value="Internet">Internet</option>
+            <option value="Web">Web</option>
+        </select> 
+
+        <h4>Cartes restantes</h4>
+        <p id="nb_events">0</p>
+
+        <h2>Scores</h2>
+        <h4>Joueurs</h4>
+        <select name="joueurs" id="joueurs" style="margin-top: 5px;">
+            <option value="1" selected>1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+        </select> 
+
+        <div id="scores">
+            <!-- When the game starts, the following code is added
+                repeated as many times there are players
+            <h4>Joueur X</h4>
+            <p style="color: #ffdc00;"><b><span id="nb-perfectX">0</span> dates exactes !</b></p>        
+            <p style="color: green;"><b><span id="nb-pointsX">0</span> réussites</b></p>
+            <p style="color: red;"><b><span id="nb-mistakesX">0</span> erreurs</b></p>
+            -->
+        </div>
+        <br/><br/>
+    </div>
+</body>
+</html>

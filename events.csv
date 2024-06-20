@@ -1,0 +1,328 @@
+﻿Date;Titre;Description;Catégorie_principale;Catégorie_secondaire;Sélection;Fichier_img
+-2000;Premiers algorithmes de calcul;"À partir d'environ 2000 av J.-C. : Premiers algorithmes de calcul à Babylone, retrouvés sur des tablettes d'argiles, écrites en cunéiforme. <br/>
+<br/>
+<i>La photo montre une tablette de l'ère des Séleucide (-305 - -64), d'un texte mathématique sur la procédure du calcul de l'aire d'un carré, de triangle et volumes. Porte la transcription du zéro. Ecrit par l'astrologue Anu-aba-uter. (Musée du Louvre)</i>";Algorithmes;0;X;-2000_Alg.JPG
+-300;Algorithme d'Euclide;"env. 300 av J.-C. : L'algorithme d'Euclide est décrit dans le livre VII des Éléments d'Euclide sous la forme de l'anthyphérèse, une méthode pour calculer le PGCD de deux nombres ou démontrer que deux longueurs sont incommensurables (équivalent à « a/b n'est pas un nombre rationnel »). <br/>
+<br/>
+<i>Photo du livre « Euclidis Elementorum libri XV » (1558), la 1ère édition des éléments d'Euclide publiée à la fois en Grec et en Latin.</i>";Algorithmes;Personne;X;-300_Alg.png
+-50;1ère utilisation connue du chiffrement de César;"Méthode de chiffrement très simple utilisée par Jules César dans ses correspondances secrètes par décalage de X lettres de l'alphabet. César l'utilisait avec l'alphabet grec et un décalage de 3 sur la droite. Il n'est pas certain qu'il ait inventé la méthode car d'autres techniques de chiffrement existaient déjà avant lui. <br/>
+<br/>
+<i>Illustration de Wikipédia.</i>";Algorithmes;Personne;X;-50_Alg.png
+820;Publication du 1er manuel d'algèbre;"Entre 813 et 833, Al Khwârizmî publie son ouvrage  « Abrégé du calcul par la restauration et la comparaison », considéré comme le 1er manuel d'algèbre puisqu'il regroupe au même endroit pour la 1ère fois un ensemble d'éléments sur la résolution des équations du premier et du second degré (définitions, opérations, algorithmes, démonstrations). Suite à la traduction de son oeuvre et sa diffusion en occident au XII siècle, le mot algorithme apparaît par déformation de son nom pour désigner un « mécanisme réglant le fonctionnement de la pensée organisée ».<br/>
+<br/>
+<i>Photo de la 1ère page de son livre.</i>";Algorithmes;Personne;X;820_Alg.jpg
+1642;Invention de la 1ère machine à calculer;"La Pascaline est une calculatrice mécanique inventée par Blaise Pascal. Elle permet d’additionner et de soustraire deux nombres d'une façon directe et de faire des multiplications et des divisions par répétitions. La 1ère machine est présentée en 1645 après une cinquantaine de prototypes.<br/>
+<br/>
+<i>Photo d'une pascaline signée par Pascal en 1652, au musée des arts et métiers du Conservatoire national des arts et métiers à Paris.</i>";Machines;Personne;X;1642_M.jpg
+1703;Publication de l'article « ﻿Explication de l’arithmétique binaire »;"De nom complet « Explication de l’arithmétique binaire, qui se sert des seuls caractères O et I avec des remarques sur son utilité et sur ce qu’elle donne le sens des anciennes figures chinoises de Fohy », cet article de Gottfried Leibniz présente le système de numération binaire moderne, à la base du code binaire. <br/>
+<br/>
+<i> Moitié supérieure de la 1ère page de l'article de 1703. </i>";Données;Personne;X;1703_D.png
+1725;1ère utilisation de papier perforé;"Basile Bouchon améliora le système de métier à tisser de Dangon en créant des supports de programme ammovibles que l'on pouvait immédiatement interchanger. Le papier perforé est utilisé pour programmer le mouvement des lisses dans un métier à tisser et ainsi définir des motifs particuliers.<br/>
+<br/>
+<i>Photo d'une reproduction à échelle réduite d'un métier à tisser, au musée des arts et métiers du Conservatoire national des arts et métiers à Paris.</i>";Données;Personne;X;1725_D.jpg
+1842;1er « programme informatique »;"Lors de sa traduction du français vers l'anglais de la description de la machine analytique de Babbage, Ada Lovelace ajoute 7 notes (représentant près de 3 fois le volume de texte de l'article original) dont une décrivant un véritable algorithme pour calculer les nombres de Bernouilli à l'aide de la machine. <br/>
+<br/>
+<i> Scan du « Programme » de calcul des nombres de Bernoulli dans la note G d'Ada Lovelace.</i>";Algorithmes;Personne;X;1842_A.jpg
+1854;Développement de l'algèbre de Boole;"Le mathématicien britannique George Boole publie <i>The Laws of Thought</i> en 1854, un traité dont le but est  « d'étudier les lois fondamentales des opérations de l'esprit par lesquelles s'effectue le raisonnement ; de les exprimer dans le langage symbolique d'un calcul, puis, sur un tel fondement, d'établir la science de la logique et de constituer sa méthode ; »<br/>
+<br/>
+<i>Morceau de la 1ère page du livre.</i>";Langages;Personne;X;1854_L.png
+1874;Développement du code Baudot;"Développement du code sur 5 bits par Emile Baudot pour la transmission télégraphique sur ruban perforé.  C'est le premier codage des caractères mécanisé :les caractères étaient composés à l'aide d'un clavier à cinq touches. <br/>
+<br/>
+<i>Bande de papier avec des trous représentant des caractères du « code Baudot ».</i>";Données;Personne;X;1874_D.JPG
+1890;1ère utilisation des cartes perforées pour le stockage de données;"Première utilisation des cartes perforées pour le stockage de données (carte à 45 colonnes, trous ronds), par Hermann Hollerith, pour le recensement des États-Unis en 1890. Le succès de la technique permis à Hollerith de fonder sa propre société qui finit par grandir jusqu’à se renommer… IBM. <br/>
+<br/>
+<i>Carte perforée à tous rond pour machine Remington-Rand.</i>";Données;Personne;X;1890_D.JPG
+1928;Mise au point de la carte perforée à 80 colonnes;"Modèle de carte le plus connu et qui restera un standard jusque dans les formats d'écran des terminaux texte (24 lignes et 80 colonnes). Pour avoir plus d'information (colonnes) les trous ronds sont remplacés par des trous rectangulaires.<br/>
+<br/>
+<i>Carte perforée 80 colonnes.</i>";Données;0;X;1928_D.JPG
+1936;Définition de la calculabilité;"Dans son article « An Unsolvable Problem of Elementary Number Theory », Alonzo Church chercher à définir les fonctions effectivement calculables, c-a-d celles dont on peut calculer les valeurs par un algorithme en un nombre fini d'étapes. Il utilise entre autres le lambda-calcul qu'il a inventé en 1932.<br/>
+<br/>
+<i>Comparaison de la définition de deux fonctions en mathématiques, Caml et ﻿λ-calcul.</i>";Algorithmes;Personne;X;1936_A.png
+1937;Premier circuit binaire ;"Cet additionneur 1 bit a été construit avec deux relais par George Stibitz. Il est appelé  « model-K » car il l'a construit dans sa cuisine ! <br/>
+<br/>
+<i>Réplique du model-K de George Stibitz. Photo du Smithsonian extraite du livre Histoire illustrée de l'informatique (3ème édition).</i>";Machines;Personne;X;1937_M.jpg
+1941;Mise en service du précurseur allemand de l'ordinateur;"Le Z3 était un calculateur à relais électromécaniques inventé par Konrad Zuse. Il est la première machine <b>électromécanique digitale, programmable et entièrement automatique</b>.  Le code et les données étaient stockés sur des rubans perforés en celluloïd. 
+<br/>
+<br/>
+<i>Réplique du Zuse 3 au Deutsches Museum de Munich</i>";Machines;Personne;X;1941_M.JPG
+1945;Mise en service de l'ENIAC;"Acronyme de <i>Electronic Numerical Integrator And Computer</i>, c'est le premier ordinateur Turing-complet entièrement électronique. Il utilisait près de 18 000 tubes à vide et se programmait par câblage. <br/>
+<br/>
+<i>Betty Jennings (gauche) et Frances Bilas (droite), deux des six programmeuses de l'ENIAC, préparant l'ordinateur pour le jour de sa démonstration au public le 14 février 1946.</i>";Machines;0;X;1945_eniac_M.jpg
+1945;Description du modèle de von Neumann;"Le mathématicien John von Neumann a donné son nom à l'architecture de von Neumann, utilisée dans la quasi-totalité des ordinateurs modernes. Ce modèle comporte une mémoire unique qui contient à la fois les données et le programme. La paternité exclusive de cette architecture à von Neumann est cependant discutée. <br/>
+<br/>
+<i>Schéma de l'architecture de von Neumann. </i>";Machines;Personne;X;1945_M.png
+1947;Invention du transistor;"Le transistor bipolaire a été réalisé pour la première fois en 1947 par les américains John Bardeen, William Shockley et Walter Brattain, chercheurs des Laboratoires Bell. Cette invention leur a valu le prix Nobel de Physique en 1956. <br/>
+<br/>
+<i>Réplique du 1er transistor. </i>";Machines;0;X;1947_M.png
+1951;Description du 1er algorithme K-NN;"Le 1er algorithme des K plus proches voisins (<i>K-Nearest Neighbors</i>) a été décrit pour la première fois par Evelyn Fix et Joseph Hodges, deux statisticiens américains. <br/>
+<br/>
+<i>Schéma de classification avec 5 plus proches voisins.</i>";Algorithmes;Personne;X;1951_A.png
+1952;Conception du 1er « compilateur »;"A-0 System (Arithmetic Language version 0) est en réalité un programme chargé de copier les sous-programmes (et mettre à jour les adresses mémoires) aux endroits où ils sont utilisés dans le programme principal. Grace Hopper a écrit ce premier « compilateur » pour l'UNIVAC I afin d'accélerer la production de programmes mais aucune optimisation des programmes n'est effectuée. ﻿<br/> « <i>The reason it got called a compiler was that each subroutine was given a 'call
+word', because the subroutines were in a library, and when you pull stuff out of a library
+you compile things. It's as simple as that. </i> »
+<br/>
+<br/>
+<i>Extrait de la retranscription de la conférence de Juin 1978 par Hopper, Grace. <br/> Proceedings of the ACM SIGPLAN History of Programming Languages (HOPL) conference. </i>";Langages;Personne;X;1952_L.png
+1956;Invention du 1er disque dur;"Le 1er disque dur magnétiqe est commercialisé par IBM. D'une capacité de 5 Mo et avec un temps d'accès aux données d'environ une demi seconde, ce disque dur était déjà à l'époque « transportable ». <br/>
+<br/>
+<i>Photo de International Business Machine Corporation, extraite du livre Histoire illustrée de l'informatique (3ème édition). </i>";Données;Machines;X;1956_D.JPG
+;;;;;;
+1957;Sortie de la 1ère version de FORTRAN;"Fortran (pour <i>mathematical FORmula TRANslating system</i>) est le 1er langage de programmation de haut niveau. Le compilateur FORTRAN est déployé courant avril 1957 sur tous les IBM 704. <br/>
+<br/>
+<i> Logo du langage Fortran. </i>";Langages;0;X;1957_L.png
+;;;;;;
+1959;Algorithme de Dijkstra;"Edsger Dijkstra, mathématicien et informaticien néerlandais, dévoile son algorithme de recherche du plus court chemin entre deux sommets d'un graphe pondéré dans l'article <i>A Note on Two Problems in Connexion with Graphs</i> publié dans la revue <i>Numerische Mathematik</i>. <br/>
+<br/>
+<i>Animation de l'exécution de l'algorithme de Dijkstra.</i>";Algorithmes;Personne;X;1959_A.gif
+1963;Adoption du code ASCII par l'agence américaine de normalisation;"L'ASCII (<i>American Standard Code for Information Interchange</i>) est une norme informatique d'encodage de caractères. 7 bits sont utilisés pour encoder 128 caractères alphanumériques et de ponctuation (suffisant pour l'anglais), le 8ème bit étant réservé pour détecter les erreurs. <br/>
+<br/>
+<i>Table ASCII de la publication originale par ASA (American Standards Association) sous le nom ASA X3.4-1963. </i>";Données;0;X;1963_D.png
+1963;1er prototype de souris;"Imaginée par Douglas Engelbart, la première souris n'avait qu'un seul bouton. Lors de sa présentation au public en 1968 elle dispose de 3 boutons ! <br/>
+<br/>
+<i>1er prototype de souris construit par Bill English à partir des schémas de Douglas Engelbart. </i>";Machines;Personne;X;1963_M.jpg
+;;;;;;
+1966;1er système embarqué ;"L'Apollo Guidance Computer (AGC) est l'ordinateur embarqué de navigation et de pilotage installé dans les vaisseaux spatiaux des missions Apollo. Il pèse une trentaine de kilos avec clavier, écran et interface utilisateur et gère la navigation et le pilotage de la fusée et du module lunaire. C'est un ordinateur multitâche et qui effectue des traitements en temps réel. <br/>
+<br/>
+<i>Margaret Hamilton, ingénieure en cheffe du système de navigation du programme Apollo, dans une maquette du module de commande (25/11/1969).</i>";Machines;Personne;X;1966_M.jpg
+;;;;;;
+;;;;;;
+1969;Début de l'ancêtre d'Internet;"ARPANET est un réseau expérimental entre ordinateurs financé par la DARPA, l'agence de défense américaine. Ce premier réseau relie 2 puis 4 ordinateurs (1970) appartenant à 4 universités américaines. En 1971 près de 23 sites seront connectés à travers tous les États-Unis. <br/>
+<br/>
+<i>Source : <a href=""http://mercury.lcs.mit.edu/~jnc/tech/arpageo.html"">ARPANET Technical Information: Geographic Maps</a></i>";Machines;Internet;X;1969_M_ARPANET.png
+;;;;;;
+;;;;;;
+1971;Commercialisation du 1er microprocesseur;"Le 15 novembre 1971 Intel sort le 1er microprocesseur : Intel 4004. Il possède 2300 transistors,  fonctionne avec un set d'instructions sur 4bits et a une fréquence de 750 kHz. <br/>
+<br/>
+<i>Source : <a href=""https://www.intel.com/content/www/us/en/newsroom/resources/intel-4004.html"">Infographie du 50ème anniversaire du Intel 4004.</i>";Machines;0;X;1971_M.jpg
+;;;;;;
+;;;;;;
+1972;Sortie de la 1ère version du langage C;"Inventé par Dennis Ritchie et Kenneth Thompson (Bell Labs) pour réécrire Unix, c'est une évolution du langage B ajoutant notamment les types. La 1ère version de C++ sortit quant à elle en 1985. <br/>
+<br/>
+<i>Photo : couverture de la 1ère édition du livre The C programming language, de 1978</i>";Langages;0;X;1972_L.png
+1973;ARPANET est connecté à l'Europe;"ARPANET : Un site anglais et un site norvégien sont connectés au réseau. <br/>
+<br/>
+<i>Source : <a href=""http://mercury.lcs.mit.edu/~jnc/tech/arpageo.html"">ARPANET Technical Information: Geographic Maps</a></i>";Machines;Internet;X;1973_M.jpg
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+1983;« Naissance d'Internet »;"ARPANET est administrativement séparé en deux réseaux déclassifiés : l'un pour la recherche et le développement deviendra Internet, l'autre appelée MILNET pour des usages militaires déclassifiés. La séparation physique des deux réseaux sera effective en 1984.  <br/>
+<br/>
+<i>Source : <a href=""http://mercury.lcs.mit.edu/~jnc/tech/arpageo.html"">ARPANET Technical Information: Geographic Maps</a></i>";Machines;Internet;X;1983_M.png
+;;;;;;
+1983;1er métro urbain entièrement automatisé au monde;"Le véhicule automatique léger (VAL) est une technologie de métro roulant sur pneumatiques  totalement automatique utilisée pour la première fois pour équiper le métro de Lille, d'où l'ancien accronyme du projet <i>Villeneuve-d’Ascq - Lille</i>. Contrairement au système d'automatisation de l'exploitation des trains (SAET) utilisé sur la ligne 1 et 14  de Paris, le système VAL nécessite une exploitation intégrale en rames automatiques (impossibilité d'insertion de rames manuelles). <br/>
+<br/>
+<i>Métro arrivant à la station Les Prés, Villeneuve d'Ascq. Photo de Jiel Beaumadier.</i>";Algorithmes;Machines;X;1983_A.jpg
+;;;;;;
+1984;Sortie de Système 1 (Mac OS);"Mac OS Classic est la série de systèmes d'exploitation développés par Apple pour sa famille d'ordinateurs personnels Macintosh de 1984 à 2001, commençant par Système 1 et en terminant par Mac OS 9. Système 1 est le 1er OS graphique. <br/>
+<br/>
+<i>Capture d'écran sous System 1.0 (réalisé avec émuateur par <a href=""https://web.archive.org/web/20140512112637/http://www3.nd.edu/~jvanderk/sysone/"">Dan Vanderkam</a>)</i>";Machines;0;X;1984_M.gif
+1985;Sortie de Windows 1.0;"Windows est au départ une interface graphique unifiée produite par Microsoft, qui est devenue ensuite une gamme de systèmes d’exploitation à part entière. Inspirées d'interfaces comme celles du Xerox Alto, puis du Apple Lisa et du Macintosh d'Apple, les premières versions de Windows, en 16 bits, s'appuyaient sur l'OS existant : MS-DOS. Celui-ci ayant été conçu monotâche, on y lançait Windows comme un simple programme. <br/>
+<br/>
+<i><a href=""https://guidebookgallery.org/screenshots/win101"">Capture d'écran</a> de Windows 1.01 </i>";Machines;0;X;1985_M.png
+;;;;;;
+1987;Sortie de la 1ère version du langage Caml;"Le nom est à l'origine un acronyme pour <i>Categorical Abstract Machine Language</i> : un jeu de mots sur CAM, la Machine Abstraite Catégorique, et ML, la famille de langages de programmation à laquelle Caml appartient. En 1990-1991 la version plus légère et portable de Caml, Caml Light, est publiée, puis une version plus performante, Caml Special Light, en 1995. Un an plus tard naissait OCaml (pour Objective Caml), qui n'obtint son nom qu'en 2011. <br/>
+<br/>
+<i>Logo issu du 2nd site Web : <a href=""http://caml.inria.fr/"">http://caml.inria.fr/</a> </i>";Langages;0;X;1987_L.gif
+;;;;;;
+1989;Invention du World Wide Web;"Tim Berners Lee, informaticien au CERN, invente le World Wide Web : un système d'information basé sur l'hypertexte et fontionnant via l'infrastructure Internet. Il développe le premier navigateur Web et éditeur HTML, le langage utilisé pour construire les pages Web qu'il a également inventé. Avec l'aide de son collègue Robert Caillau il pu placer le World Wide Web dans le domaine public en 1993. <br/>
+<br/>
+<i>Le NeXTcube de Tim Berners-Lee (1er serveur Web) portant l'étiquette « This machine is a server. DO NOT POWER IT DOWN!! ». Photo de Coolcaesar au musée du CERN de Genève.</i>";Données;Web;X;1989_D.jpg
+;;;;;;
+;;;;;;
+1991;Sortie de la 1ère version du langage Python;"Conçut par Guido van Rossum, la version 0.9.0 a été publiée en février 1991.<br/>
+<br/>
+<i>Source : <a href=""https://github.com/python/cpython/blob/main/Misc/HISTORY"">Fichier Misc/HYSTORY dans le dépôt cpython sur Github</a> </i>";Langages;Personne;X;1991_L.png
+1991;Création du noyau Linux et du système d'exploitation associé;"Linus Torvalds, alors étudiant à l'université d'Helsinki, souhaitait modifier le système d'expoitation MINIX (une variante d'Unix pour processeurs Intel, développée par Andrew S. Tanenbaum). Bien que les sources de MINIX soient disponibles, la licence logicielle ne permettait pas la diffusion des modifications, il décide alors de créer son propre système d'exploitation et le diffuse sous la licence libre GNU GPL (car le noyau est associé à des logiciels et interface provenant de GNU dont le noyau tardait à être opérationel). <br/>
+<br/>
+<i>Le manchot Tux, la mascotte officielle du noyau Linux, dessiné par Larry Ewing en 1996.</i> ";Machines;Personne;X;1991_M.png
+;;;;;;
+1993;Publication de la 1ère version du HTML;"HTML (<i>HyperText Markup Language</i>) désigne le langage de balisage utilisé pour définir le contenu et la structure des documents à afficher dans un navigateur Web. La 1ère version est publiée en 1993 par l'Internet Engineering Task Force (IETF) comme un brouillon pour en faire un standard mais le premier document à avoir été rendu public date de 1991 : c'est un document informel du CERN listant 18 balises HTML. <br/>
+<br/>
+<i>Exemple d'un document HTML minimal et du rendu quand il est ouvert avec un navigateur Web.</i>";Langages;Web;X;1993_L.png
+;;;;;;
+1993;Premier navigateur Web populaire;"Premier navigateur Web : MOSAIC, développé au <i>National Center for Supercomputing Applications</i> (NCSA) à l'université de l'Illinois, Urbana-Champaign. Il intégre des images et la mise en forme du texte. Il sort en même temps que le CERN met le World Wide Web dans le domaine public. <br/>
+<br/>
+<i>Capture d'écran de la page d'accueil du navigateur web NCSA Mosaic™ Version 1.0.</i>";Machines;Web;X;1993_M.jpg
+1994;Commercialisation du 1er smartphone;"L'IBM Simon est le premier smartphone et téléphone mobile à écran tactile (avec stylet). Il fut présenté au COMDEX de 1992 mais commercialisé à partir de 1994. <br/>
+<br/>
+<i>IBM Simon et sa station de chargement.</i>";Machines;0;X;1994_M.png
+1994;Sortie de Yahoo;"Deux étudiants de l'université Standford, Jerry Yang et David Filo, publient un annuaire de sites Web appelé  «<i> Jerry's Guide to the World Wide Web </i>», rapidement renommé en <b>Yahoo!</b> qui peut être un rétroaccronyme pour  «<i> Yet Another Hierarchically Officious Oracle </i>». Mais le choix de ce mot est surtout par attrait pour sa définition générale dans Les Voyages de Gulliver de Jonathan Swift: «<i> rude, unsophisticated, uncouth. </i>». <br/>
+<br/>
+<i>Capture d'écran de la page d'accueil du 17/10/1996 enregistrée sur <a href=""https://web.archive.org/web/19961017235908/http://www2.yahoo.com/"">Internet Archive</a></i>";Données;Web;X;1994_D.png
+;;;;;;
+;;;;;;
+1995;PHP et JavaScript;"Sortie de la première version des deux langages de programmaton qui permettent respectivement de créer des sites web dynamiques (différents pour chaque utilisateur) et interactifs (boutons, menus déroulants, effets de style au passage de la souris…). <br/>
+<br/>
+<i>Capture d'écran d'un exemple de code HTML, Javascript et PHP. </i>";Langages;Web;X;1995_L.png
+;;;;;;
+1998;Mise en service du système d'automatisation de l'exploitation des trains à Paris;"Le système d'automatisation de l'exploitation des trains (SAET) est le système d'automatisation intégrale utilisé par la RATP pour l'exploitation des rames sur les lignes 1, 4 et 14 du métro de Paris. Il fut mis en place pur la première fois avec le projet Météor : la ligne 14. Contrairement au système VAL, il est possible d'intercaler des rame non automatiques dans le réseau, ce qui a permis l'automatisation progressive de la ligne 1. <br/>
+<br/>
+<i>Maquette du PCC de la ligne 14 du métro de Paris, musée des Arts et Métiers, Paris, France. Photo par Clicsouris.</i>";Algorithmes;Machines;X;1998_A_metro.jpg
+1998;Fondation de l'entreprise Google;"Le moteur de recherche éponyme provient d'un projet de recherche démarré en 1996 par deux doctorants de l'université de Standford en Californie,  Larry Page et Sergey Brin, ainsi que Scott Hassan qui a écrit une grande partie du code du premier moteur de recherche. Plutôt que de compter le nombre d'occurrence des termes dans une page, les réponses du moteur de recherche sont classées par réputation, c'est-à-dire en fonction du nombre et de la qualité des liens qui pointent vers elles, c'est l'algorithme PageRank. Le nom provient d'une déformation de googol (10<sup>100</sup>) afin de montrer le grand nombre d'informations fourni par le moteur de recherche.<br/>
+<br/>
+<i>Capture d'écran de la page d'accueil originale (la date a été masquée). </i>";Algorithmes;Web;X;1998_A.png
+1999;Invention de la clé USB;"Le brevet « <i>Architecture for a universal serial bus-based PC flash disk</i> »  a été déposé en avril 1999 par l'entreprise israelienne M-Systems (rachetée par SanDisk en 2006). L'un des tout premiers modèles commercialisé les années suivantes est la DiskOnKey d'IBM, un peu plus petite qu'un surligneur (82 x 15 x 23 mm), elle se vendait avec un CD-Rom contenant les pilotes d'installation pour 500 francs (76€) et offrait une capacité de... 8 Mo ! <br/>
+<br/>
+<i><a href=""https://www.01net.com/actualites/diskonkey-dibm-le-plein-de-memoire-a-la-clef-156993.html"">Source: article du 12 juillet 2001 de 01net.com</a>, photo : <a href=""https://bjorn3d.com/2002/07/m-systems-diskonkey/"">DiskOnKey de 64 Mo</a>.</i>";Données;Machines;X;1999_D.jpg
+1999;Lancement de l'ADSL en France;"L'ADSL (<i>Asymmetric Digital Subscriber Line</i>) permet un accès à Internet via le réseau téléphonique en exploitant une bande de fréquences située au-dessus de celle utilisée pour la téléphonie. Cela permet d'échanger des données numériques en parallèle avec une éventuelle conversation téléphonique. Le débit théorique maximum descendant est d'environ 13 Mbit/s, en réalité le débit était de quelques centaines à miliers de kilo bits par seconde.<br/>
+<br/>
+<i>Filtre ADSL en blanc et prise téléphone analogique en noir. Photo de 2008.</i> ";Machines;Internet;X;1999_M.jpg
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+2007;Commercialisation du 1er iPhone;"Commercialisation du 1er iPhone connu sous le nom d’iPhone 2G ou d’iPhone EDGE. C'est le 1er smartphone à succès, principalement pour son écran tactile sans stylet. Il embarque de la toute première version d'iOS (iPhone OS 1). <br/>
+<br/>
+<i>1er iPhone en vitrine au Macworld, 2007, photo par ArnoldReinhold.</i>";Machines;0;X;2007_M.jpg
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+2018;Mise en application du RGPD;"Le Règlement Général sur la Protection des Données (RGPD) est un règlement du Parlement européen et du Conseil du 27 avril 2016, relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données qui est applicable dans l'ensemble de l'Union Européene à partie du 25 mai 2018. <br/>
+<br/>
+<i>Symbole européen du RGPD : GPDR « General Data Protection Regulation » </i>";Données;0;X;2018_D.jpg
+;;;;;;
+;;;;;;
+2022;Sortie de ChatGPT (GPT-3.5);"Une variante affinée du modèle de langage (LLM) GPT-3, appelée GPT-3.5, a été mise à la disposition du public par le biais d'une interface web appelée ChatGPT en 2022. Cette interface a marqué le début d'un certain engouement du public et de la communauté scientifique pour les IA générative. <br/>
+<br/>
+<i>Logo de Chat-GPT </i>";Algorithmes;0;X;2022_A.png
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;

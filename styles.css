@@ -1,0 +1,148 @@
+/* Reset default margin and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply flexbox layout to the body */
+body {
+    display: flex;
+}
+
+
+/* Style the left sidebar */
+.sidebar-left {
+    width: 430px; /* Adjust width as needed */
+    height: 100vh; /* Full height of the viewport */
+    position: fixed; /* Fixed positioning */
+    overflow-y: auto; /* Allow vertical scrolling if content overflows */
+    left: 0; /* Stick to the left side */
+    background-color: #bed7ec ; /* Light background color */
+    padding: 10px;
+}
+
+/* Style the right sidebar */
+.sidebar-right {
+    width: 100px; /* Adjust width as needed */
+    height: 100vh; /* Full height of the viewport */
+    position: fixed; /* Fixed positioning */
+    overflow-y: auto; /* Allow vertical scrolling if content overflows */
+    right: 0; /* Stick to the right side */
+    background-color: #bed7ec ; /* Lighter background color */
+    padding: 10px;
+    text-align: center;
+}
+
+/* Define styles for the main content */
+.main-content {
+    flex: 1; /* Take up remaining space */
+    padding: 20px; /* Add some padding */
+    overflow-y: auto; /* Allow vertical scrolling if content overflows */
+}
+
+.event {
+    display: inline-block; /* Display as inline-block */
+    position: absolute; /* or position: relative; */
+    max-width: 100%; /* Adjust width to fit content */
+}
+
+.event-content {
+    display: inline-block; /* Display as inline-block */
+    max-width: 100%; /* Adjust width to fit content */
+    padding: 15px 25px 1px 25px; /* Adjust padding as needed */
+    border: 1px solid black; /* Thin black border */
+    background-color: #ffffff; /* White background color */
+}
+
+.event-img {
+    position: absolute;
+    max-height: 70px; 
+    width: auto; /* Allow the image's width to adjust proportionally */
+    max-width: 60px; 
+}
+
+#current-event {
+    max-width: 400px; /* Adjust width to fit content */
+    padding: 15px; /* Adjust padding as needed */
+    border: 1px solid black; /* Thin black border */
+    margin-bottom: 10px; /* Adjust margin as needed */
+    background-color: #ffffff; /* White background color */
+    display: flex; /* Use flexbox layout */
+    flex-direction: column; /* Arrange children vertically */
+    align-items: center; /* Center children horizontally */
+    justify-content: center; /* Center children vertically */
+    position: sticky;
+    top: 0;
+    z-index: 1000; /* Optional: Ensure it's above other elements */
+}
+
+#current-event img {
+    max-width: 100%; /* Ensure the image does not exceed its parent container's width */
+    height: auto; /* Allow the image's height to adjust proportionally */
+}
+
+#help {
+    background-color: #27468f; 
+    border: none;
+    width: 100%;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 20px;
+    transition-duration: 0.4s; 
+    margin-bottom: 15px;
+}
+
+#help:hover {
+    background-color: #ffffff; 
+    color: #27468f;
+}
+
+h4 {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#score {
+    margin-bottom: 200px;
+    padding-bottom: 20px;
+}
+
+
+#scores p {
+    margin-top: 2px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+#scores div {
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+#helpPopup {
+    display: none;
+    width: 50%;
+    height: 80%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #e5eef6; /* Very light blue background */
+    z-index: 9999;
+    overflow: auto;
+    padding: 15px; /* Add padding */
+    border: 10px solid navy; /* Large navy border */
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.8); /* Shadow behind the box */
+    text-align: justify; /* Justify text */
+}
+
+
+
+

@@ -22,7 +22,7 @@
 <i>Photo d'une reproduction à échelle réduite d'un métier à tisser, au musée des arts et métiers du Conservatoire national des arts et métiers à Paris.</i>";Données;Personne;X;1725_D.jpg
 1842;1er « programme informatique »;"Lors de sa traduction du français vers l'anglais de la description de la machine analytique de Babbage, Ada Lovelace ajoute 7 notes (représentant près de 3 fois le volume de texte de l'article original) dont une décrivant un véritable algorithme pour calculer les nombres de Bernouilli à l'aide de la machine. <br/>
 <br/>
-<i> Scan du « Programme » de calcul des nombres de Bernoulli dans la note G d'Ada Lovelace.</i>";Algorithmes;Personne;X;1842_A.jpg
+<i> Scan du « Programme » de calcul des nombres de Bernouilli dans la note G d'Ada Lovelace.</i>";Algorithmes;Personne;X;1842_A.jpg
 1854;Développement de l'algèbre de Boole;"Le mathématicien britannique George Boole publie <i>The Laws of Thought</i> en 1854, un traité dont le but est  « d'étudier les lois fondamentales des opérations de l'esprit par lesquelles s'effectue le raisonnement ; de les exprimer dans le langage symbolique d'un calcul, puis, sur un tel fondement, d'établir la science de la logique et de constituer sa méthode ; »<br/>
 <br/>
 <i>Morceau de la 1ère page du livre.</i>";Langages;Personne;X;1854_L.png
@@ -31,7 +31,7 @@
 <i>Bande de papier avec des trous représentant des caractères du « code Baudot ».</i>";Données;Personne;X;1874_D.JPG
 1890;1ère utilisation des cartes perforées pour le stockage de données;"Première utilisation des cartes perforées pour le stockage de données (carte à 45 colonnes, trous ronds), par Hermann Hollerith, pour le recensement des États-Unis en 1890. Le succès de la technique permis à Hollerith de fonder sa propre société qui finit par grandir jusqu’à se renommer… IBM. <br/>
 <br/>
-<i>Carte perforée à tous rond pour machine Remington-Rand.</i>";Données;Personne;X;1890_D.JPG
+<i>Carte perforée à trous rond pour machine Remington-Rand.</i>";Données;Personne;X;1890_D.JPG
 1928;Mise au point de la carte perforée à 80 colonnes;"Modèle de carte le plus connu et qui restera un standard jusque dans les formats d'écran des terminaux texte (24 lignes et 80 colonnes). Pour avoir plus d'information (colonnes) les trous ronds sont remplacés par des trous rectangulaires.<br/>
 <br/>
 <i>Carte perforée 80 colonnes.</i>";Données;0;X;1928_D.JPG
@@ -116,7 +116,7 @@ you compile things. It's as simple as that. </i> »
 ;;;;;;
 1984;Sortie de Système 1 (Mac OS);"Mac OS Classic est la série de systèmes d'exploitation développés par Apple pour sa famille d'ordinateurs personnels Macintosh de 1984 à 2001, commençant par Système 1 et en terminant par Mac OS 9. Système 1 est le 1er OS graphique. <br/>
 <br/>
-<i>Capture d'écran sous System 1.0 (réalisé avec émuateur par <a href=""https://web.archive.org/web/20140512112637/http://www3.nd.edu/~jvanderk/sysone/"">Dan Vanderkam</a>)</i>";Machines;0;X;1984_M.gif
+<i>Capture d'écran sous System 1.0 (réalisé avec émulateur par <a href=""https://web.archive.org/web/20140512112637/http://www3.nd.edu/~jvanderk/sysone/"">Dan Vanderkam</a>)</i>";Machines;0;X;1984_M.gif
 1985;Sortie de Windows 1.0;"Windows est au départ une interface graphique unifiée produite par Microsoft, qui est devenue ensuite une gamme de systèmes d’exploitation à part entière. Inspirées d'interfaces comme celles du Xerox Alto, puis du Apple Lisa et du Macintosh d'Apple, les premières versions de Windows, en 16 bits, s'appuyaient sur l'OS existant : MS-DOS. Celui-ci ayant été conçu monotâche, on y lançait Windows comme un simple programme. <br/>
 <br/>
 <i><a href=""https://guidebookgallery.org/screenshots/win101"">Capture d'écran</a> de Windows 1.01 </i>";Machines;0;X;1985_M.png
@@ -156,10 +156,10 @@ you compile things. It's as simple as that. </i> »
 <br/>
 <i>Capture d'écran d'un exemple de code HTML, Javascript et PHP. </i>";Langages;Web;X;1995_L.png
 ;;;;;;
-1998;Mise en service du système d'automatisation de l'exploitation des trains à Paris;"Le système d'automatisation de l'exploitation des trains (SAET) est le système d'automatisation intégrale utilisé par la RATP pour l'exploitation des rames sur les lignes 1, 4 et 14 du métro de Paris. Il fut mis en place pur la première fois avec le projet Météor : la ligne 14. Contrairement au système VAL, il est possible d'intercaler des rame non automatiques dans le réseau, ce qui a permis l'automatisation progressive de la ligne 1. <br/>
+1998;Mise en service du système d'automatisation de l'exploitation des trains à Paris;"Le système d'automatisation de l'exploitation des trains (SAET) est le système d'automatisation intégrale utilisé par la RATP pour l'exploitation des rames sur les lignes 1, 4 et 14 du métro de Paris. Il fut mis en place pour la première fois avec le projet Météor : la ligne 14. Contrairement au système VAL, il est possible d'intercaler des rames non automatiques dans le réseau, ce qui a permis l'automatisation progressive de la ligne 1. <br/>
 <br/>
 <i>Maquette du PCC de la ligne 14 du métro de Paris, musée des Arts et Métiers, Paris, France. Photo par Clicsouris.</i>";Algorithmes;Machines;X;1998_A_metro.jpg
-1998;Fondation de l'entreprise Google;"Le moteur de recherche éponyme provient d'un projet de recherche démarré en 1996 par deux doctorants de l'université de Standford en Californie,  Larry Page et Sergey Brin, ainsi que Scott Hassan qui a écrit une grande partie du code du premier moteur de recherche. Plutôt que de compter le nombre d'occurrence des termes dans une page, les réponses du moteur de recherche sont classées par réputation, c'est-à-dire en fonction du nombre et de la qualité des liens qui pointent vers elles, c'est l'algorithme PageRank. Le nom provient d'une déformation de googol (10<sup>100</sup>) afin de montrer le grand nombre d'informations fourni par le moteur de recherche.<br/>
+1998;Fondation de l'entreprise Google;"Le moteur de recherche éponyme provient d'un projet de recherche démarré en 1996 par deux doctorants de l'université de Stanford en Californie,  Larry Page et Sergey Brin, ainsi que Scott Hassan qui a écrit une grande partie du code du premier moteur de recherche. Plutôt que de compter le nombre d'occurrence des termes dans une page, les réponses du moteur de recherche sont classées par réputation, c'est-à-dire en fonction du nombre et de la qualité des liens qui pointent vers elles, c'est l'algorithme PageRank. Le nom provient d'une déformation de googol (10<sup>100</sup>) afin de montrer le grand nombre d'informations fourni par le moteur de recherche.<br/>
 <br/>
 <i>Capture d'écran de la page d'accueil originale (la date a été masquée). </i>";Algorithmes;Web;X;1998_A.png
 1999;Invention de la clé USB;"Le brevet « <i>Architecture for a universal serial bus-based PC flash disk</i> »  a été déposé en avril 1999 par l'entreprise israelienne M-Systems (rachetée par SanDisk en 2006). L'un des tout premiers modèles commercialisé les années suivantes est la DiskOnKey d'IBM, un peu plus petite qu'un surligneur (82 x 15 x 23 mm), elle se vendait avec un CD-Rom contenant les pilotes d'installation pour 500 francs (76€) et offrait une capacité de... 8 Mo ! <br/>
@@ -188,7 +188,7 @@ you compile things. It's as simple as that. </i> »
 <i>Symbole européen du RGPD : GPDR « General Data Protection Regulation » </i>";Données;0;X;2018_D.jpg
 ;;;;;;
 ;;;;;;
-2022;Sortie de ChatGPT (GPT-3.5);"Une variante affinée du modèle de langage (LLM) GPT-3, appelée GPT-3.5, a été mise à la disposition du public par le biais d'une interface web appelée ChatGPT en 2022. Cette interface a marqué le début d'un certain engouement du public et de la communauté scientifique pour les IA générative. <br/>
+2022;Sortie de ChatGPT (GPT-3.5);"Une variante affinée du modèle de langage (LLM) GPT-3, appelée GPT-3.5, a été mise à la disposition du public par le biais d'une interface web appelée ChatGPT en 2022. Cette interface a marqué le début d'un certain engouement du public et de la communauté scientifique pour les IA génératives. <br/>
 <br/>
 <i>Logo de Chat-GPT </i>";Algorithmes;0;X;2022_A.png
 ;;;;;;

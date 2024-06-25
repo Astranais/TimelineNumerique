@@ -41,6 +41,7 @@ let playerScores = []; // array of dictionaries for scores of each players
 let player_ID = 1; // ID of the current player
 let x0 = 0; let y0 = 0 ; // initial coordinates, updated by the computeInitialCoordinates function
 let readmeContent = ""; // content of the readme file
+let countdownInterval; // for the timer
 
 /*
 FUNCTIONS :
@@ -385,6 +386,37 @@ function startGame() {
 }
 
 
+
+function startTimer(duration, display) {
+    let timer = duration, minutes, seconds;
+    clearInterval(countdownInterval); // Clear any existing interval
+
+    countdownInterval = setInterval(() => {
+        minutes = parseInt(timer / 60, 10);
+        seconds = parseInt(timer % 60, 10);
+
+        minutes = minutes < 10 ? "0" + minutes : minutes;
+        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+        display.textContent = minutes + ":" + seconds;
+
+        if (--timer < 0) {
+            clearInterval(countdownInterval);
+            display.textContent = "00:00";
+            display.style.color = 'red';
+            // Optionally add actions when the timer ends
+        } else {
+            display.style.color = ''; // Reset text color
+        }
+    }, 1000);
+}
+
+function resetTimer() {
+    const temps = 60 * 1, display = document.getElementById('timerOverlay');
+    display.style.color = ''; // Reset text color to default
+    startTimer(temps, display);
+}
+
 /*
 EVENT LISTENERS :
 1)  linked to the file button 'csv-file-input'
@@ -447,6 +479,7 @@ document.getElementById('next-event-btn').addEventListener('click', () => {
         <h3>${chosenEvent.Titre}</h3>
         ${chosenEvent.Fichier_img ? `<img src="img/${chosenEvent.Fichier_img}" alt=" ">` : ''}
     `;
+    resetTimer(); // Reset and start the timer when a new card is drawn
     }
 });
 
@@ -512,3 +545,6 @@ document.addEventListener('keydown', function(event) {
     }
 });
 document.getElementById('helpPopup').addEventListener('mouseout',hideHelp);
+
+
+
